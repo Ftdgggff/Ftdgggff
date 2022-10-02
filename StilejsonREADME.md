@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ftdgggff
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Ftdgggff/Ftdgggff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->tikler.json
+["bozkurt.hazarr","bozkurt.hazarr","bozkurt._rickampux26" ,"hazarr","bozkurt.hazarr","bozkurt.hazarr"].
+
+["bozkurt.hazarr","cristiano","aeromods_app","rickampux26"]
